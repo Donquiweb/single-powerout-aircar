@@ -1,0 +1,6 @@
+=How to make concept model=
+==Tools and Parts==
+* plywood of thickness was 2mm.
+* radio system, number of channel was at least 5.
+* nylon standoffs
+ * m3*10 x 8 
