@@ -3,5 +3,5 @@
  * plywood of thickness was 2mm.
  * radio system, number of channel was at least 5.
  * Hex nylon standoffs
-  * m3*10 				x 8
-  * m3*10 				x 8 
+  * m3*10.......x 8
+  * m3*10.......x 8 
