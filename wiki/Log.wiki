@@ -4,7 +4,7 @@ Testing fly of No.7 was finish. It's not bad.
 [http://single-powerout-aircar.googlecode.com/svn/wiki/pic/no7-1.JPG]
 
 But the motor got a big smoke and scraped. It's my fault, the motor([http://www.dualsky.com/pro_list_for.asp?sid=119&Keywords=3548CA-5&id=296 XM3548CA-5]) max use by 4s LiPo. I always use by 6s LiPo.
-And my 6s cell was scraped, don't understand it.
+And my 6s cell was scraped, I have no idea for this.
 
 [http://single-powerout-aircar.googlecode.com/svn/wiki/pic/cell-1.jpg]
 
