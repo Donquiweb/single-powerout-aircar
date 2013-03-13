@@ -1,3 +1,6 @@
+====2013.3.13====
+Testing fly of No.7 was finish. It's not bad. But the motor got a big smoke and scraped. It's my fault, the motor([http://www.dualsky.com/pro_list_for.asp?sid=119&Keywords=3548CA-5&id=296 XM3548CA-5]) max use by 4 cell LiPo. I always use by 6 cell LiPo.
+
 ====2013.3.2====
 No.6 can't rise up. I guess thrust was limited cause the gas exit was too small.
 
@@ -76,7 +79,7 @@ I will try smaller and lighter model.
 ====2013.1.12====
 My monster No.3 was completed. 
 [http://single-powerout-aircar.googlecode.com/svn/wiki/pic/frames-11.JPG]
-Now， it's enough big.
+Now�?it's enough big.
 [http://single-powerout-aircar.googlecode.com/svn/wiki/pic/frames-12.JPG]
 But it's too heavy. Rise up when throttle's position over 3/4. its first flying was very poor...Keep go on in tomorrow.
 
@@ -93,7 +96,7 @@ I guess the force moment was too short,so it's too difficult to control.
 
 Next monster will make more big.
 
-Today have a bad news, My study visa was refused by china canada embassy. //(ㄒoㄒ)////(ㄒoㄒ)////(ㄒoㄒ)//
+Today have a bad news, My study visa was refused by china canada embassy. //(ㄒo�?////(ㄒo�?////(ㄒo�?//
 
 ====2012.12.17====
 Keep testing my monster.
@@ -103,7 +106,7 @@ Keep testing my monster.
 Looks it was better. Don't always rotation.
  
 ====2012.12.16.====
-Try many times to fly, but it's more bad than first flying.(ㄒoㄒ) I don't know where wrong...Don't give up, continue try it.
+Try many times to fly, but it's more bad than first flying.(ㄒo�? I don't know where wrong...Don't give up, continue try it.
 
 ====2012.12.9.====
 I make a new MWC used arduino pro mini+mpu6050.
@@ -118,7 +121,7 @@ My monster's first flight.
 
 <wiki:video url="http://www.youtube.com/watch?v=C7HJghHp6B4&feature=youtu.be"/> MWC2.1 heli-120-ccpm
 
-Always rotation, the tail looks not useful. I guess the propeller's reactive force is too big and tail blade is too small, it's not enough hold orientation. Stabilize is not good too. //(ㄒoㄒ)// 
+Always rotation, the tail looks not useful. I guess the propeller's reactive force is too big and tail blade is too small, it's not enough hold orientation. Stabilize is not good too. //(ㄒo�?// 
 
 I tried traditional helicopter CCPM system at night.[http://single-powerout-aircar.googlecode.com/svn/wiki/pic/turning-2.jpg]
 It's too fast roll, can't be control. Crazy more than used MWC. The stabilize is useful but it work was not very good. Keep try turning by MWC, probably it can be stabilized finally.
@@ -138,7 +141,7 @@ Third drawing fix and send to laser cnc. I got a great gift. The google sketchup
 The accident always full in the life. I plan use [http://code.google.com/p/arducopter/ APM] to control this monster. [http://code.google.com/p/arducopter/ APM] is a system of very powerful and easy to use, but his helicopter mode(ver. 2.7.3) had a few bug, tail can't control by joystick and [http://diydrones.com/forum/topics/apm-can-t-save-the-servo-position-s-param-what-can-i-do-for-it?xg_source=activity can't save the servo position's param]. Now [http://code.google.com/p/multiwii/ MWC] give me a big surprise, He can support [http://fotoflygarn.blogspot.com/2012/04/multiwii-helicopter.html helicopter mode] too. Although [http://code.google.com/p/multiwii/ MWC] haven't too much function like [http://code.google.com/p/arducopter/ APM], but basic helicopter flying control looks better than [http://code.google.com/p/arducopter/ APM]. It's just guess, need wait real flight testing.
 
 ====2012.11.25====
-So sad a day。 I got second frames after long time waiting. First cnc operator had mistake, lost some detail, and i had mistake again. So drawing must fix again. Just a good news, the test of electronic part was successful. Four servos use 6v 8a power, BEC and APM use 5v 2a power. They can work together.
+So sad a day�?I got second frames after long time waiting. First cnc operator had mistake, lost some detail, and i had mistake again. So drawing must fix again. Just a good news, the test of electronic part was successful. Four servos use 6v 8a power, BEC and APM use 5v 2a power. They can work together.
 
 ====2012.11.22.====
 Got new servo and send drawing to laser cnc.
@@ -153,4 +156,5 @@ got the frames and first build. The doors size all was wrong!!!FML! Need fix it 
 send drawing to laser cnc, use 2mm composite laminate.<br/>
 2012.11.13.
 finish drawing design.
+
 
