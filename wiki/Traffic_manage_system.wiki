@@ -3,5 +3,11 @@
 How to manger flying car in city.
 
 ==Downtown region==
-Office building, factory, supermarket etc. These place was heavy crowd. 
+Office building, factory, supermarket etc. These place was heavy crowd. Need some device for help us:
+ * NAVstation. A signal tower similar cell tower be installed in parking, send and receive message of f-car, control the f-car's order.
+ * NAVkid. A small system in f-car, it have many funtion such as navigation, radio, autopilot etc.
+ * Powerful turtle. A heavy robot. Actually it's a trailer. It's job is find f-car when landed, catch them and take off helipad go to parking space. All of work is auto without human do anthing. 
+
+===Land===
+One or more f-car want to come down on parking.
 
