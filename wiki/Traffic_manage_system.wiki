@@ -20,6 +20,10 @@ One or more f-car want to come down on parking.
 ===Powerful turtle===
 [http://single-powerout-aircar.googlecode.com/svn/wiki/pic/concept-6.jpg]
 
-claw
+It use camera to track the front wheel of flying car and control himself run close to f-car.
+
+[http://single-powerout-aircar.googlecode.com/svn/wiki/pic/concept-7.jpg]
+
+Then catch the wheel by claw. Drag f-car away. His energy from battery.
 
 
