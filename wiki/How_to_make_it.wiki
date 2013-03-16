@@ -31,11 +31,35 @@ About motor: the 3548ca-5 850kv can't work in 6s cell. I ignore this bug in proj
 ==Assembly==
 ===step 1===
 [http://single-powerout-aircar.googlecode.com/svn/wiki/pic/makeit-1.jpg]
-===step 2===
 [http://single-powerout-aircar.googlecode.com/svn/wiki/pic/makeit-2.jpg]
+[http://single-powerout-aircar.googlecode.com/svn/wiki/pic/makeit-3.jpg]
+[http://single-powerout-aircar.googlecode.com/svn/wiki/pic/makeit-4.jpg]
+[http://single-powerout-aircar.googlecode.com/svn/wiki/pic/makeit-5.jpg]
+===step 2===
+[http://single-powerout-aircar.googlecode.com/svn/wiki/pic/makeit-6.jpg]
 ===step 3===
-
+[http://single-powerout-aircar.googlecode.com/svn/wiki/pic/makeit-7.jpg]
 ===step 4===
+[http://single-powerout-aircar.googlecode.com/svn/wiki/pic/makeit-8.jpg]
+[http://single-powerout-aircar.googlecode.com/svn/wiki/pic/makeit-9.jpg]
+[http://single-powerout-aircar.googlecode.com/svn/wiki/pic/makeit-10.jpg]
+===step 5===
+[http://single-powerout-aircar.googlecode.com/svn/wiki/pic/makeit-11.jpg]
+===step 6===
+[http://single-powerout-aircar.googlecode.com/svn/wiki/pic/makeit-12.jpg]
+[http://single-powerout-aircar.googlecode.com/svn/wiki/pic/makeit-13.jpg]
+===step 7===
+[http://single-powerout-aircar.googlecode.com/svn/wiki/pic/makeit-14.jpg]
+[http://single-powerout-aircar.googlecode.com/svn/wiki/pic/makeit-15.jpg]
+===step 8===
+[http://single-powerout-aircar.googlecode.com/svn/wiki/pic/makeit-16.jpg]
+===step 9===
+[http://single-powerout-aircar.googlecode.com/svn/wiki/pic/makeit-17.jpg]
+===step 10===
+[http://single-powerout-aircar.googlecode.com/svn/wiki/pic/makeit-18.jpg]
+
+
+
 
 
 
