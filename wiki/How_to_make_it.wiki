@@ -5,7 +5,7 @@
  * Hex nylon standoffs
   * m3*10.......x 8
   * m4*25.......x 4
- * Hex nylon screw
+ * Nylon screw
   * m3*8........x 12
   * m4*12.......x 12
  * Hex nylon nut
@@ -17,7 +17,7 @@
  * propellers: gws 1045 3-blade
  * battery: 6S 1300mAh
  * servo: springRC SM-S3481M x 3,  SM-S3471M x 1
- * epoxy glue, recommend 
+ * epoxy glue, recommend prepare a glue gun
 
 About motor: the 3548ca-5 850kv can't work in 6s cell. I ignore this bug in project beginning, so my all design keep this trouble. Now I no time and money to find new motor and propeller, make whole new design. They need make about 4kg thrust, it's not easy found. But fortunately i have four 3548ca-5 850kv, Now three motor let me go on test flying. 
 
@@ -26,9 +26,14 @@ About motor: the 3548ca-5 850kv can't work in 6s cell. I ignore this bug in proj
  # Find laser cutter make it by drawing and plywood
  # Done
 
-==assembly==
+==Assembly==
+ # step 
 
 
+ # step 
+
+
+ # step 
 
 
 
