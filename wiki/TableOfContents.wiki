@@ -1,5 +1,6 @@
 #sidebar TableOfContents
  * [How_to_make_it]
+  * [Configuration]
  * [Traffic_manage_system]
  * [Log]
  * [Action_Pitch]
