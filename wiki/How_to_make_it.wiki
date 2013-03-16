@@ -11,13 +11,15 @@
  * Hex nylon nut
   * m3........x 8
   * m4........x 12
+ * steel screw m2*12  x 8 
  * ESC: Platinum-60A-PRO x 1
  * motor: DUALSKY 3548ca-5 850kv x 1 (not recommend, The reason in the following)
  * controller/autopilot: APM2 or MWC(MWC is best)
- * propellers: gws 1045 3-blade
- * battery: 6S 1300mAh
+ * propellers: gws 1045 3-blade x 1
+ * battery: 6S 1300mAh x 1
  * servo: springRC SM-S3481M x 3,  SM-S3471M x 1
  * epoxy glue, recommend prepare a glue gun
+ * Flange bearings 4*7*2.5 x 4
 
 About motor: the 3548ca-5 850kv can't work in 6s cell. I ignore this bug in project beginning, so my all design keep this trouble. Now I no time and money to find new motor and propeller, make whole new design. They need make about 4kg thrust, it's not easy found. But fortunately i have four 3548ca-5 850kv, Now three motor let me go on test flying. 
 
@@ -28,7 +30,9 @@ About motor: the 3548ca-5 850kv can't work in 6s cell. I ignore this bug in proj
 
 ==Assembly==
 ===step 1===
+[http://single-powerout-aircar.googlecode.com/svn/wiki/pic/makeit-1.jpg]
 ===step 2===
+[http://single-powerout-aircar.googlecode.com/svn/wiki/pic/makeit-2.jpg]
 ===step 3===
 
 ===step 4===
