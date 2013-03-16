@@ -28,11 +28,7 @@ About motor: the 3548ca-5 850kv can't work in 6s cell. I ignore this bug in proj
 
 ==Assembly==
  # step 
-
-
  # step 
-
-
  # step 
 
 
