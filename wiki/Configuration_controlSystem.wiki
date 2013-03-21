@@ -7,8 +7,8 @@ It's like traditional helicopter CCPM system, but not exactly same. Three servos
 [http://single-powerout-aircar.googlecode.com/svn/wiki/pic/col_sys-1.jpg]
 
 ==Setup by MWC==
-The concept model fly with multiwii, The mode is helicopter ccpm 120. Finish setup by [http://fotoflygarn.blogspot.com/2012/04/multiwii-helicopter.html MWC Heli manual].
+The concept model fly with multiwii, The mode is helicopter ccpm 120. Finish setup by [http://fotoflygarn.blogspot.com/2012/04/multiwii-helicopter.html MWC Heli manual].</br>
 Then we need change servo behavior:
-
+[http://single-powerout-aircar.googlecode.com/svn/wiki/pic/control-2.jpg]
 
 
