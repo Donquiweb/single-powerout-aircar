@@ -9,7 +9,7 @@ It's like traditional helicopter CCPM system, but not exactly same. Three servos
 ==Setup by MWC==
 The concept model fly with multiwii, The mode is helicopter ccpm 120. Finish setup by [http://fotoflygarn.blogspot.com/2012/04/multiwii-helicopter.html MWC Heli manual].
 ===notice!!!===
-channel 1, you need set to fix value such as 1500, it's not throttle!, your must control throttle by other channel, for example ESC(THR) connect to channel 5.<br>
+channel 1, you need set to fix value such as 1500, it's not throttle!, your must control throttle by other channel, for example ESC(THR) connect to channel 5.<br><br>
 Then we need change servo behavior:
 [http://single-powerout-aircar.googlecode.com/svn/wiki/pic/control-2.jpg]
 Open config.h
@@ -36,10 +36,26 @@ change to
 It's zoom in servo end point
 ===Check valve's position===
 [http://single-powerout-aircar.googlecode.com/svn/wiki/pic/control-3.jpg]<br>
-Place SPOf-car a level surface, then all of the valve's position must is 0 degree(neutarl)! You need try your best to let them close to 0 degree!<br>
-Push stick on your radio, all of the valve's end position about is 60 degree. Try keep every valve's end position is same! You maybe turn down the value of  ¡°2000¡± a little:
+Place model a level surface, then all of the valve's position must is 0 degree(neutarl)! You need try your best to let them close to 0 degree!<br>
+Push stick on your radio, all of the valve's end position about is 60 degree. Try keep every valve's end position is same! You maybe need turn down the value of  (2000) a little:
 <code>
 #define SERVO_ENDPOINT_HIGH {2000,2000,2000,2000,2000,2000,2000,2000}; 
 </code>
 Don't turn down too much, the route of servo possible isn't enough, fly will be not stabilize.
+===Check MWC's stabilize function===
+Catch model with your hand, move it. Check every action of valve are right, aren't them? If you feel pitch or roll was Opposite, you can switch (+,-) in there:
+<code>
+#define SERVO_NICK   { +10, -18, -0 }
+#define SERVO_LEFT   { +10, +9, -18 }
+#define SERVO_RIGHT  { +10, +9, +18 }
+</code>
+If you feel yaw was reverse, you can switch (1 or -1) in there:
+<code>
+#define YAW_DIRECTION 1
+</code>
+
+===Check radio reverse===
+move stick on radio,  If you feel pitch or roll was Opposite, you can switch reverse on radio, don't modify MWC's code.
+
+
 
