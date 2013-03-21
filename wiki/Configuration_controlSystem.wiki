@@ -57,5 +57,7 @@ If you feel yaw was reverse, you can switch (1 or -1) in there:
 ===Check radio reverse===
 move stick on radio,  If you feel pitch or roll was Opposite, you can switch reverse on radio, don't modify MWC's code.
 
+==All be done, you can try to fly==
+
 
 
