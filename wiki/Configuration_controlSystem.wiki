@@ -13,8 +13,9 @@ channel 1, you need set to fix value such as 1500, it's not throttle!, your must
 Then we need change servo behavior:
 [http://single-powerout-aircar.googlecode.com/svn/wiki/pic/control-2.jpg]
 Open config.h
-Find:<code
-#define SERVO_ENDPOINT_LOW {1020,1020,1020,1020,1020,1020,1020,1020};</code>
+Find:{{{
+#define SERVO_ENDPOINT_LOW {1020,1020,1020,1020,1020,1020,1020,1020};
+}}}
 change to #define SERVO_ENDPOINT_LOW  {1350,1020,1020,1510,1510,1020,1510,1020};
 The value about is 1500, it's the center point for servo. It will limit route of servo become half.<br>
 Find:#define SERVO_NICK   { +10, -18, -0 }
