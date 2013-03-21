@@ -17,12 +17,15 @@ Find:<code>
 #define SERVO_ENDPOINT_LOW {1020,1020,1020,1020,1020,1020,1020,1020};
 </code>
 change to 
-'
+<code>
 #define SERVO_ENDPOINT_LOW {1350,1020,1020,1510,1510,1020,1510,1020};
-'
+</code>
 The value about is 1500, it's the center point for servo. It will limit route of servo become half.<br>
-Find:#define SERVO_NICK   { +10, -18, -0 }
-    #define SERVO_LEFT   { +10, +9, -18 }
-    #define SERVO_RIGHT  { +10, +9, +18 }
+Find:
+<code>
+#define SERVO_NICK   { +10, -18, -0 }
+#define SERVO_LEFT   { +10, +9, -18 }
+#define SERVO_RIGHT  { +10, +9, +18 }
+</code>
 
 
