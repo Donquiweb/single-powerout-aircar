@@ -18,14 +18,28 @@ Find:<code>
 </code>
 change to 
 <code>
-#define SERVO_ENDPOINT_LOW {1350,1020,1020,1510,1510,1020,1510,1020};
+#define SERVO_ENDPOINT_LOW {1020,1020,1020,1510,1510,1020,1510,1020};
 </code>
 The value about is 1500, it's the center point for servo. It will limit route of servo become half.<br>
 Find:
+<code>
+#define SERVO_NICK   { +10, -10, -0 }
+#define SERVO_LEFT   { +10, +5, -10 } 
+#define SERVO_RIGHT  { +10, +5, +10 } 
+</code>
+change to
 <code>
 #define SERVO_NICK   { +10, -18, -0 }
 #define SERVO_LEFT   { +10, +9, -18 }
 #define SERVO_RIGHT  { +10, +9, +18 }
 </code>
-
+It's zoom in servo end point
+===Check valve's position===
+[http://single-powerout-aircar.googlecode.com/svn/wiki/pic/control-2.jpg]<br>
+Place SPOf-car a level surface, then all of the valve's position must is 0 degree(neutarl)! You need try your best to let them close to 0 degree!<br>
+Push stick on your radio, all of the valve's end position about is 60 degree. Try keep every valve's end position is same! You maybe turn down the value of  ¡°2000¡± a little:
+<code>
+#define SERVO_ENDPOINT_HIGH {2000,2000,2000,2000,2000,2000,2000,2000}; 
+</code>
+Don't turn down too much, the route of servo possible isn't enough, fly will be not stabilize.
 
