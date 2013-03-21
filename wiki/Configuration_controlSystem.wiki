@@ -13,9 +13,9 @@ channel 1, you need set to fix value such as 1500, it's not throttle!, your must
 Then we need change servo behavior:
 [http://single-powerout-aircar.googlecode.com/svn/wiki/pic/control-2.jpg]
 Open config.h
-Find:[
+Find:<code>
 #define SERVO_ENDPOINT_LOW {1020,1020,1020,1020,1020,1020,1020,1020};
-]
+</code>
 change to 
 '
 #define SERVO_ENDPOINT_LOW {1350,1020,1020,1510,1510,1020,1510,1020};
