@@ -1,6 +1,11 @@
-==overview==
+==Overview==
 It's like traditional helicopter CCPM system, but not exactly same. Three servos control three valve.
 
 [http://single-powerout-aircar.googlecode.com/svn/wiki/pic/control-1.jpg]
+
+====Servo action List====
+[http://single-powerout-aircar.googlecode.com/svn/wiki/pic/col_sys-1.jpg]
+
+==Setup by MWC==
 
 
