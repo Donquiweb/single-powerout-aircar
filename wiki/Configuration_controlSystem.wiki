@@ -35,7 +35,7 @@ change to
 </code>
 It's zoom in servo end point
 ===Check valve's position===
-[http://single-powerout-aircar.googlecode.com/svn/wiki/pic/control-2.jpg]<br>
+[http://single-powerout-aircar.googlecode.com/svn/wiki/pic/control-3.jpg]<br>
 Place SPOf-car a level surface, then all of the valve's position must is 0 degree(neutarl)! You need try your best to let them close to 0 degree!<br>
 Push stick on your radio, all of the valve's end position about is 60 degree. Try keep every valve's end position is same! You maybe turn down the value of  ¡°2000¡± a little:
 <code>
