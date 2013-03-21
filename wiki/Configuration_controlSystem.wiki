@@ -11,7 +11,7 @@ The concept model fly with multiwii, The mode is helicopter ccpm 120. Finish set
 ===notice!!!===
 channel 1, you need set to fix value such as 1500, it's not throttle!, your must control throttle by other channel, for example ESC(THR) connect to channel 5.<br><br>
 Then we need change servo behavior:
-[http://single-powerout-aircar.googlecode.com/svn/wiki/pic/control-2.jpg]
+[http://single-powerout-aircar.googlecode.com/svn/wiki/pic/control-2.jpg]<br>
 Open config.h
 Find:<code>
 #define SERVO_ENDPOINT_LOW {1020,1020,1020,1020,1020,1020,1020,1020};
