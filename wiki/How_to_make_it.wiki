@@ -24,7 +24,7 @@
 About motor: the 3548ca-5 850kv can't work in 6s cell. I ignore this bug in project beginning, so my all design keep this trouble. Now I no time and money to find new motor and propeller, make whole new design. They need make about 4kg thrust, it's not easy found. But fortunately i have four 3548ca-5 850kv, Now three motor let me go on test flying. 
 ===suggest===
 If you want make this model, you need modify motor and propeller. The Electric Ducted Fan is a good idea, but the price too expensive.<br>
-The best is fanjet always in my dream^_^
+The best is fanjet always in my dream '^_^'
 
 ==Get frame==
  # Downloading [https://code.google.com/p/single-powerout-aircar/downloads/detail?name=SPOAC-7-makeup.zip drawing]
