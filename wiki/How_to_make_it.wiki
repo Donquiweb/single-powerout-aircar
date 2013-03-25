@@ -54,6 +54,7 @@ The best is fanjet always in my dream '^_^'
 ===step 7===
 [http://single-powerout-aircar.googlecode.com/svn/wiki/pic/makeit-14.jpg]
 [http://single-powerout-aircar.googlecode.com/svn/wiki/pic/makeit-15.jpg]
+====[Configuration_controlSystem notice!You must finish setup of MWC in this setp. Then can continue next step]=====
 ===step 8===
 [http://single-powerout-aircar.googlecode.com/svn/wiki/pic/makeit-16.jpg]
 ===step 9===
