@@ -1,0 +1,28 @@
+# Traffic manage system #
+## Overview ##
+How to manger flying car in city.
+
+## Downtown region ##
+Office building, factory, supermarket etc. These place was heavy crowd. Need some device for help us:
+  * NAVstation. A signal tower similar cell tower be installed in parking, send and receive message of f-car, control the f-car's order. It's work was auto finished by computer system.
+  * NAVkid. A small system in f-car, it have many function such as navigation, radio, autopilot etc.
+  * Powerful turtle. A heavy robot. Actually it's a trailer. It's job is find f-car when landed, catch them and take them away from helipad go to parking space. All of work is auto without human do anything.
+
+![http://single-powerout-aircar.googlecode.com/svn/wiki/pic/concept-5.jpg](http://single-powerout-aircar.googlecode.com/svn/wiki/pic/concept-5.jpg)
+
+### Land ###
+One or more f-car want to come down on parking.
+
+![http://single-powerout-aircar.googlecode.com/svn/wiki/pic/flow-1.jpg](http://single-powerout-aircar.googlecode.com/svn/wiki/pic/flow-1.jpg)
+
+![http://single-powerout-aircar.googlecode.com/svn/wiki/pic/flow-2.jpg](http://single-powerout-aircar.googlecode.com/svn/wiki/pic/flow-2.jpg)
+
+### Powerful turtle ###
+![http://single-powerout-aircar.googlecode.com/svn/wiki/pic/concept-6.jpg](http://single-powerout-aircar.googlecode.com/svn/wiki/pic/concept-6.jpg)
+
+It use camera to track the front wheel of flying car and control himself run close to f-car.
+
+![http://single-powerout-aircar.googlecode.com/svn/wiki/pic/concept-7.jpg](http://single-powerout-aircar.googlecode.com/svn/wiki/pic/concept-7.jpg)
+
+Then catch the wheel by claw. Drag f-car away. His energy from battery.
+
